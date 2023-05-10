@@ -27,7 +27,7 @@ const CharacterCard = ({character}) => {
         <a href={location.url}>{location.name}</a>
       </div>
       <div className="section">
-        <span className="text-gray">First seen in:</span>
+        <span className="text-gray">Origin:</span>
         <a href={origin.url}>{origin.name}</a>
       </div>
     </div>
