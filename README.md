@@ -5,7 +5,7 @@ This is a solution to the *Character Card* project of the Make It Real course.
 ## The challenge
 Render the list of characters of Rick and Morty provided in data.json using just one component and do a prop validation of the props used.
 ## Screenshot
-![print screen](/ss.jpg)
+![print screen](https://raw.githubusercontent.com/mercuryeater/characters-rick-morty/main/public/ss.jpg)
 
 ### Built with
 
