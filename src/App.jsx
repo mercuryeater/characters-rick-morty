@@ -13,7 +13,7 @@ function App() {
 
       <div className="container">
         {characters.map((character, index) => {
-          return <CharacterCard key={index} character={character} id={index} />
+          return <CharacterCard key={index} character={character} />
         })}
         
       </div>
