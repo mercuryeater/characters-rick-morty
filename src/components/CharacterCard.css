@@ -77,11 +77,15 @@
     border-radius: 50%;
   }
   
-  .status__alive {
+  .status__Alive {
     background: rgb(85, 204, 68);
   }
   
-  .status__dead {
+  .status__Dead {
     background: rgb(214, 61, 46);
+  }
+
+  .status__unknown {
+    background: rgb(141, 141, 141);
   }
   
